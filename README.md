@@ -61,5 +61,5 @@ Quando a ocupação da tabela atinge **75%**, a estrutura é **automaticamente r
 | `JavaHashMain.java`  | 🎀 Um menu interativo para testar tudo.            |
 
 
-## ❤️ Feito com amor e muitos `System.out.println()`
+## ❤️ Feito com muitos `System.out.println()`
 
